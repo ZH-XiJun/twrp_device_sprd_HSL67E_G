@@ -29,7 +29,11 @@ TARGET_NO_BOOTLOADER := true
 
 # Display
 TARGET_SCREEN_DENSITY := 320
+# Touchscreen based on landscape screen but TWRP displays portraitly
+# This option makes touchscreen portrait 
 RECOVERY_TOUCHSCREEN_SWAP_XY:= true
+# This option flips the value of touch x-axis
+RECOVERY_TOUCHSCREEN_FLIP_X:= true
 
 # Kernel
 BOARD_KERNEL_BASE := 0x00000000
