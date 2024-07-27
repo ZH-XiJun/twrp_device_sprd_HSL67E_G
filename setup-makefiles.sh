@@ -8,7 +8,7 @@
 
 set -e
 
-DEVICE=sl8541e_cus_go
+DEVICE=HSL67E_G
 VENDOR=sprd
 
 # Load extract_utils and do some sanity checks

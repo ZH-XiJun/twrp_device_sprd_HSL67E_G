@@ -6,9 +6,9 @@
 #
 
 PRODUCT_MAKEFILES := \
-    $(LOCAL_DIR)/omni_sl8541e_cus_go.mk
+    $(LOCAL_DIR)/omni_HSL67E_G.mk
 
 COMMON_LUNCH_CHOICES := \
-    omni_sl8541e_cus_go-user \
-    omni_sl8541e_cus_go-userdebug \
-    omni_sl8541e_cus_go-eng
+    omni_HSL67E_G-user \
+    omni_HSL67E_G-userdebug \
+    omni_HSL67E_G-eng

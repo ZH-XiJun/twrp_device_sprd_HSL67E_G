@@ -5,4 +5,4 @@
 # SPDX-License-Identifier: Apache-2.0
 #
 
-LOCAL_PATH := device/sprd/sl8541e_cus_go
+LOCAL_PATH := device/sprd/HSL67E_G

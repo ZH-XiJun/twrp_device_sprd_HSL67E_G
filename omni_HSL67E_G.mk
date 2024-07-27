@@ -11,11 +11,11 @@ $(call inherit-product, $(SRC_TARGET_DIR)/product/full_base_telephony.mk)
 # Inherit some common Omni stuff.
 $(call inherit-product, vendor/omni/config/common.mk)
 
-# Inherit from sl8541e_cus_go device
-$(call inherit-product, device/sprd/sl8541e_cus_go/device.mk)
+# Inherit from HSL67E_G device
+$(call inherit-product, device/sprd/HSL67E_G/device.mk)
 
-PRODUCT_DEVICE := sl8541e_cus_go
-PRODUCT_NAME := omni_sl8541e_cus_go
+PRODUCT_DEVICE := HSL67E_G
+PRODUCT_NAME := omni_HSL67E_G
 PRODUCT_BRAND := 凌度
 PRODUCT_MODEL := HSL67E-G
 PRODUCT_MANUFACTURER := sprd
