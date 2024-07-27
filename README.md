@@ -1,4 +1,4 @@
-# TWRP device tree for 凌度 HSL67E-G (sl8541e_cus_go)
+# TWRP device tree for 凌度 HSL67E-G (HSL67E_G)
 
 > [!Caution]
 > This is a SPRD device, that means you need to sign the image through 
