@@ -1,5 +1,7 @@
 # TWRP 设备树：凌度 HSL67E-G
 
+[English ver](README-en.md)
+
 > [!Caution]
 > 这款设备使用了紫光展锐的处理器，这意味者你必须得用
 这个 [工作流](https://github.com/zh-xijun/action_sprd_signer) 签好名再刷进去，否则变砖了别找我
